@@ -1,0 +1,37 @@
+body{
+background: url("img/sea.jpg") center no-repeat fixed;
+background-size: cover;
+}
+.contacts a{
+   color: white;
+   font-size: 18px;
+   margin-top: 10px;
+}
+.bg_header{
+   background-color: blue;
+}
+.nav{
+   background-color: #1C587E;
+}
+footer{
+   padding: 20px;
+   background-color:#E3E3E3;
+   margin-top: 500px;
+  
+}
+ul>li:hover{
+background-color: whitesmoke;
+}
+h1{
+   margin: 0;
+   margin-top: 400px;
+   
+   padding: 0;
+}
+.bg_section{
+   background-color: #1C587E;
+   opacity: 0.8;
+}
+
+
+
